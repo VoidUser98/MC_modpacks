@@ -25,12 +25,9 @@ Void's essentially optimized pack (EO) is made to optimize your game while also 
 
 ## Updates:
 It receives super fast updates.                                                                                                          
-All import formats will be available here! _(Modrinth, CurseForge, MultiMC)_                                                                         
-_^ Only from certant versions and above!_
 
 🟩**Release:** all mods are up to date.                                                                     
-🟧**Beta:** not all mods are up to date.                                                                             
-_^ It will only be defered on Modrinth!_                                                              
+🟧**Beta:** not all mods are up to date.                                                                                                                                           
 
 ## Other:
 
