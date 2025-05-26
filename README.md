@@ -37,3 +37,6 @@ _(There are some on modrinth but i want to change the way i benchmark, until tha
 
 ### Misc:
 In game downloaded mods require the game to restart to initialize (work)!
+
+### The purpose of this page:
+This page is mainly meant to be an issue tracker!
